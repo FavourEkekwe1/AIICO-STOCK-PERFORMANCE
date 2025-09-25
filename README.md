@@ -7,6 +7,7 @@ The dashboard provides a clear visualization of stock price movements, performan
 Key Features: Data cleaning and preprocessing from kaggle dataset, Visualization of stock performance over time, Scatter plots to explore relationships between variables, and cards for KPIs.
 
 Insight:
+
 Trend line with moving average: This shows short-term ups and downs, but the moving average makes it clear that the overall long-term is more stable.
 
 Change(%) vs Volume: Reveals that big price swings often happen on high trading volume. I.e Low volume days->Price doesn't move much. The scatter plot suggsets that significant price changes often coincide with higher trading volumes.
